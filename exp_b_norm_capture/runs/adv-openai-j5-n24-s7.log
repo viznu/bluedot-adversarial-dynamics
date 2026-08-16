@@ -1,0 +1,15 @@
+round   1 | F:9 J:15 | dominant J at 62% | streak 0/5 | 3.2s
+round   2 | F:7 J:17 | dominant J at 71% | streak 0/5 | 2.8s
+round   3 | F:5 J:19 | dominant J at 79% | streak 0/5 | 2.9s
+round   4 | F:5 J:19 | dominant J at 79% | streak 0/5 | 2.7s
+round   5 | F:3 J:21 | dominant J at 88% | streak 0/5 | 2.7s
+round   6 | F:3 J:21 | dominant J at 88% | streak 0/5 | 2.6s
+round   7 | F:1 J:23 | dominant J at 96% | streak 1/5 | 2.8s
+round   8 | J:24 | dominant J at 100% | streak 2/5 | 2.7s
+round   9 | J:24 | dominant J at 100% | streak 3/5 | 2.8s
+round  10 | J:24 | dominant J at 100% | streak 4/5 | 2.8s
+round  11 | J:24 | dominant J at 100% | streak 5/5 | 3.0s
+CONVERGED on 'J' at round 11 (≥95% for 5 rounds)
+model calls: 209
+parse-failure rate: 0/264 = 0.0%
+log: runs/adv-openai-j5-n24-s7.jsonl

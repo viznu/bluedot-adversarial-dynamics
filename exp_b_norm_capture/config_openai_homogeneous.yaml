@@ -1,0 +1,36 @@
+# Homogeneous population over one hosted model, called directly (no router).
+#
+# Differences from config.yaml that matter for interpretation:
+#   - provider: openai sends every non-committed decision to a hosted model.
+#     That costs real money and is at best `best_effort` reproducible: hosted
+#     ids are re-pointed silently and the same id can route to different
+#     backends. Expect to need more seeds than the local runs did.
+#   - `models` deals model ids round-robin across agents (agent i gets
+#     models[i % len(models)]), so the population is heterogeneous and each
+#     agent's family is deterministic and balanced.
+#
+# Run a --dry-run first. It exercises the whole loop and spends nothing.
+population_size: 24
+name_pool: ["F", "J"]
+memory_len: 5
+
+provider: openai
+# Used for any agent not covered by `models`, and recorded as the config model.
+model: gpt-4o-mini
+# Homogeneous arm: no `models` list, so every agent uses `model` above.
+# Heterogeneity is introduced separately, as its own arm, in
+# config_openrouter.yaml.
+
+openai:
+  max_concurrency: 8
+  timeout: 60
+  # Hard cap. 24 agents x 60 rounds is ~1440 calls; this stops a runaway config
+  # before it spends, rather than after.
+  max_calls: 1600
+
+temperature: 0.7
+max_tokens: 60
+max_rounds: 60
+convergence_threshold: 0.95
+convergence_rounds: 5
+committed: {}

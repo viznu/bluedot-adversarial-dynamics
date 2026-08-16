@@ -1,0 +1,27 @@
+round   1 | F:10 J:14 | dominant J at 58% | streak 0/5 | 3.9s
+round   2 | F:11 J:13 | dominant J at 54% | streak 0/5 | 3.0s
+round   3 | F:11 J:13 | dominant J at 54% | streak 0/5 | 2.9s
+round   4 | F:11 J:13 | dominant J at 54% | streak 0/5 | 2.9s
+round   5 | F:11 J:13 | dominant J at 54% | streak 0/5 | 2.9s
+round   6 | F:12 J:12 | dominant J at 50% | streak 0/5 | 3.0s
+round   7 | F:12 J:12 | dominant J at 50% | streak 0/5 | 3.0s
+round   8 | F:14 J:10 | dominant F at 58% | streak 0/5 | 3.0s
+round   9 | F:15 J:9 | dominant F at 62% | streak 0/5 | 3.5s
+round  10 | F:14 J:10 | dominant F at 58% | streak 0/5 | 3.0s
+round  11 | F:15 J:9 | dominant F at 62% | streak 0/5 | 16.5s
+round  12 | F:14 J:10 | dominant F at 58% | streak 0/5 | 3.0s
+round  13 | F:17 J:7 | dominant F at 71% | streak 0/5 | 3.1s
+round  14 | F:19 J:5 | dominant F at 79% | streak 0/5 | 3.2s
+round  15 | F:17 J:7 | dominant F at 71% | streak 0/5 | 2.8s
+round  16 | F:18 J:6 | dominant F at 75% | streak 0/5 | 2.9s
+round  17 | F:19 J:5 | dominant F at 79% | streak 0/5 | 3.1s
+round  18 | F:22 J:2 | dominant F at 92% | streak 0/5 | 3.0s
+round  19 | F:23 J:1 | dominant F at 96% | streak 1/5 | 3.2s
+round  20 | F:24 | dominant F at 100% | streak 2/5 | 3.0s
+round  21 | F:24 | dominant F at 100% | streak 3/5 | 3.7s
+round  22 | F:24 | dominant F at 100% | streak 4/5 | 3.1s
+round  23 | F:24 | dominant F at 100% | streak 5/5 | 2.9s
+CONVERGED on 'F' at round 23 (≥95% for 5 rounds)
+model calls: 552
+parse-failure rate: 0/552 = 0.0%
+log: runs/base-s23.jsonl

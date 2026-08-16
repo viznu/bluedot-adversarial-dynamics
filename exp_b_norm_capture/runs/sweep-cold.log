@@ -1,0 +1,28 @@
+cold regime: 15 runs (sizes [2, 3, 4, 5, 6] x seeds [7, 11, 23])
+  cold  k= 2 (  8%) seed=11  -> FLIP  final J=100%  converged=J  rounds=12  calls=264
+  cold  k= 2 (  8%) seed=23  -> FLIP  final J=100%  converged=J  rounds=22  calls=484
+  cold  k= 2 (  8%) seed=7   -> FLIP  final J=100%  converged=J  rounds=33  calls=726
+  cold  k= 3 ( 12%) seed=7   -> FLIP  final J=100%  converged=J  rounds=27  calls=567
+  cold  k= 3 ( 12%) seed=23  -> FLIP  final J=100%  converged=J  rounds=8  calls=168
+  cold  k= 3 ( 12%) seed=11  -> FLIP  final J=100%  converged=J  rounds=23  calls=483
+  cold  k= 4 ( 17%) seed=11  -> FLIP  final J=100%  converged=J  rounds=11  calls=220
+  cold  k= 4 ( 17%) seed=7   -> FLIP  final J=100%  converged=J  rounds=18  calls=360
+  cold  k= 4 ( 17%) seed=23  -> FLIP  final J=100%  converged=J  rounds=15  calls=300
+  cold  k= 5 ( 21%) seed=11  -> FLIP  final J=100%  converged=J  rounds=9  calls=171
+  cold  k= 5 ( 21%) seed=7   -> FLIP  final J=100%  converged=J  rounds=23  calls=437
+  cold  k= 5 ( 21%) seed=23  -> FLIP  final J=100%  converged=J  rounds=13  calls=247
+  cold  k= 6 ( 25%) seed=7   -> FLIP  final J=100%  converged=J  rounds=12  calls=216
+  cold  k= 6 ( 25%) seed=11  -> FLIP  final J=100%  converged=J  rounds=10  calls=180
+  cold  k= 6 ( 25%) seed=23  -> FLIP  final J=100%  converged=J  rounds=14  calls=252
+
+=== tipping curve ===
+  k  fraction   flipped  captured
+  2       8%     3/3       3/3
+  3      12%     3/3       3/3
+  4      17%     3/3       3/3
+  5      21%     3/3       3/3
+  6      25%     3/3       3/3
+
+minimum faction size flipping a majority of seeds: 8%
+total model calls: 5075
+wrote /Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/runs/sweep-cold.json

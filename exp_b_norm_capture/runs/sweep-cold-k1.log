@@ -1,0 +1,39 @@
+  !! sweep-cold-k01-s23 failed:
+mics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 181, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openrouter call failed after 3 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-cold-k01-s11 failed:
+mics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 181, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openrouter call failed after 3 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-cold-k01-s7 failed:
+mics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 181, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openrouter call failed after 3 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+cold regime: 3 runs (sizes [1] x seeds [7, 11, 23])
+
+=== tipping curve ===
+  k  fraction   flipped  captured
+  1       4%     0/3       0/3
+
+no faction size in this sweep flipped a majority of seeds
+total model calls: 0
+wrote /Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/runs/sweep-cold-k1.json

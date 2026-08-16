@@ -1,0 +1,11 @@
+# Naming-game configuration (Ashery et al. setup, batched-rounds adaptation)
+population_size: 24
+name_pool: ["F", "J"]        # arbitrary; up to 10 for later fidelity runs
+memory_len: 5                # last k interactions rendered into the prompt
+model: mlx-community/Phi-4-mini-instruct-4bit
+temperature: 0.7
+max_tokens: 60               # one reasoning sentence + 'ANSWER: <name>' line
+max_rounds: 60
+convergence_threshold: 0.95  # fraction of population on the dominant name
+convergence_rounds: 5        # consecutive rounds above threshold
+committed: {}                # session-2 adversary hook, e.g. {0: "F", 1: "F"}

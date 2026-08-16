@@ -1,0 +1,80 @@
+  !! sweep-warm-k05-s11 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-warm-k05-s7 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-warm-k08-s7 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-warm-k05-s23 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-warm-k08-s23 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-warm-k08-s11 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-warm-k12-s7 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+
+  !! sweep-warm-k12-s11 failed:
+dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
+    run(
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/naming_game.py", line 216, in run
+    player.preflight(pool)
+  File "/Users/vsn/Repos/bluedot-adversarial-dynamics/exp_b_norm_capture/providers.py", line 200, in preflight
+    raise ProviderUnusable(
+providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
+Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+

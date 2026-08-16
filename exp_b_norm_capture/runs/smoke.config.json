@@ -1,0 +1,17 @@
+{
+  "population_size": 6,
+  "name_pool": [
+    "F",
+    "J"
+  ],
+  "memory_len": 5,
+  "model": "mlx-community/Phi-4-mini-instruct-4bit",
+  "temperature": 0.7,
+  "max_tokens": 8,
+  "max_rounds": 20,
+  "convergence_threshold": 0.95,
+  "convergence_rounds": 5,
+  "committed": {},
+  "seed": 0,
+  "run_id": "smoke"
+}

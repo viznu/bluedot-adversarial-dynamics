@@ -1,0 +1,23 @@
+{
+  "population_size": 24,
+  "name_pool": [
+    "F",
+    "J"
+  ],
+  "memory_len": 5,
+  "model": "mlx-community/Phi-4-mini-instruct-4bit",
+  "temperature": 0.7,
+  "max_tokens": 60,
+  "max_rounds": 60,
+  "convergence_threshold": 0.95,
+  "convergence_rounds": 5,
+  "committed": {
+    "3": "F",
+    "8": "F",
+    "11": "F",
+    "17": "F",
+    "22": "F"
+  },
+  "seed": 7,
+  "run_id": "adv-n24-s7-f5"
+}

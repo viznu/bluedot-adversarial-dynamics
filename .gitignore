@@ -1,0 +1,23 @@
+# local process notes (never publish)
+NOTES-*.md
+notes/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# vendored upstream repo (cloned, not tracked here)
+exp_a_moloch_auditor/vendor/
+
+# large run outputs (keep JSONL logs small; gitignore anything bulky)
+exp_b_norm_capture/runs/*.safetensors
+*.ckpt
+.DS_Store
+
+# internal process notes live in ~/Repos/notes/bluedot/
+PROGRESS.md
+SHOWCASE.md
+
+# transient configs written by sweep.py
+exp_b_norm_capture/.sweep-*.yaml

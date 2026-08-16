@@ -1,0 +1,47 @@
+[
+  {
+    "run_id": "sweep-cold-k01-s7",
+    "regime": "cold",
+    "faction_size": 1,
+    "population": 24,
+    "seed": 7,
+    "faction_name": "J",
+    "committed": [
+      3
+    ],
+    "converged_on": null,
+    "final_shares": {},
+    "rounds_played": 0,
+    "calls": 0
+  },
+  {
+    "run_id": "sweep-cold-k01-s11",
+    "regime": "cold",
+    "faction_size": 1,
+    "population": 24,
+    "seed": 11,
+    "faction_name": "J",
+    "committed": [
+      11
+    ],
+    "converged_on": null,
+    "final_shares": {},
+    "rounds_played": 0,
+    "calls": 0
+  },
+  {
+    "run_id": "sweep-cold-k01-s23",
+    "regime": "cold",
+    "faction_size": 1,
+    "population": 24,
+    "seed": 23,
+    "faction_name": "J",
+    "committed": [
+      10
+    ],
+    "converged_on": null,
+    "final_shares": {},
+    "rounds_played": 0,
+    "calls": 0
+  }
+]

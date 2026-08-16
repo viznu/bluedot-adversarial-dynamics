@@ -1,0 +1,27 @@
+{
+  "population_size": 24,
+  "name_pool": [
+    "F",
+    "J"
+  ],
+  "memory_len": 5,
+  "provider": "openai",
+  "model": "gpt-4o-mini",
+  "openai": {
+    "max_concurrency": 8,
+    "timeout": 60,
+    "max_calls": 1600
+  },
+  "temperature": 0.7,
+  "max_tokens": 60,
+  "max_rounds": 60,
+  "convergence_threshold": 0.95,
+  "convergence_rounds": 5,
+  "committed": {
+    "13": "J",
+    "21": "J"
+  },
+  "seed": 7,
+  "run_id": "sweep-cold-k02-s7",
+  "warm_start": null
+}

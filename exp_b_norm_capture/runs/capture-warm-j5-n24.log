@@ -1,0 +1,65 @@
+warm start: 24/24 agents primed from homog-gpt4omini-n24-s7.jsonl
+round   1 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round   2 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round   3 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round   4 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round   5 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round   6 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round   7 | F:19 J:5 | dominant F at 79% | streak 0/5 | 3.3s
+round   8 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round   9 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round  10 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  11 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  12 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round  13 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.5s
+round  14 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round  15 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  16 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  17 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round  18 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  19 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  20 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  21 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  22 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round  23 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  24 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  25 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  26 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  27 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  28 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round  29 | F:19 J:5 | dominant F at 79% | streak 0/5 | 3.9s
+round  30 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  31 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  32 | F:18 J:6 | dominant F at 75% | streak 0/5 | 2.7s
+round  33 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  34 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  35 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round  36 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  37 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  38 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  39 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.5s
+round  40 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round  41 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round  42 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round  43 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  44 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  45 | F:19 J:5 | dominant F at 79% | streak 0/5 | 3.3s
+round  46 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round  47 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round  48 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.9s
+round  49 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  50 | F:19 J:5 | dominant F at 79% | streak 0/5 | 3.0s
+round  51 | F:17 J:7 | dominant F at 71% | streak 0/5 | 2.8s
+round  52 | F:18 J:6 | dominant F at 75% | streak 0/5 | 2.7s
+round  53 | F:18 J:6 | dominant F at 75% | streak 0/5 | 2.9s
+round  54 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.8s
+round  55 | F:18 J:6 | dominant F at 75% | streak 0/5 | 2.6s
+round  56 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  57 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+round  58 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.5s
+round  59 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.7s
+round  60 | F:19 J:5 | dominant F at 79% | streak 0/5 | 2.6s
+No convergence within 60 rounds (last dominant: F at 79%)
+model calls: 1140
+parse-failure rate: 0/1440 = 0.0%
+log: runs/capture-warm-j5-n24.jsonl

@@ -1,0 +1,302 @@
+[
+  {
+    "run_id": "sweep-cold-k02-s7",
+    "regime": "cold",
+    "faction_size": 2,
+    "population": 24,
+    "seed": 7,
+    "faction_name": "J",
+    "committed": [
+      13,
+      21
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 33,
+    "calls": 726
+  },
+  {
+    "run_id": "sweep-cold-k02-s11",
+    "regime": "cold",
+    "faction_size": 2,
+    "population": 24,
+    "seed": 11,
+    "faction_name": "J",
+    "committed": [
+      1,
+      13
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 12,
+    "calls": 264
+  },
+  {
+    "run_id": "sweep-cold-k02-s23",
+    "regime": "cold",
+    "faction_size": 2,
+    "population": 24,
+    "seed": 23,
+    "faction_name": "J",
+    "committed": [
+      8,
+      14
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 22,
+    "calls": 484
+  },
+  {
+    "run_id": "sweep-cold-k03-s7",
+    "regime": "cold",
+    "faction_size": 3,
+    "population": 24,
+    "seed": 7,
+    "faction_name": "J",
+    "committed": [
+      6,
+      11,
+      21
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 27,
+    "calls": 567
+  },
+  {
+    "run_id": "sweep-cold-k03-s11",
+    "regime": "cold",
+    "faction_size": 3,
+    "population": 24,
+    "seed": 11,
+    "faction_name": "J",
+    "committed": [
+      2,
+      7,
+      21
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 23,
+    "calls": 483
+  },
+  {
+    "run_id": "sweep-cold-k03-s23",
+    "regime": "cold",
+    "faction_size": 3,
+    "population": 24,
+    "seed": 23,
+    "faction_name": "J",
+    "committed": [
+      6,
+      11,
+      16
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 8,
+    "calls": 168
+  },
+  {
+    "run_id": "sweep-cold-k04-s7",
+    "regime": "cold",
+    "faction_size": 4,
+    "population": 24,
+    "seed": 7,
+    "faction_name": "J",
+    "committed": [
+      4,
+      19,
+      21,
+      22
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 18,
+    "calls": 360
+  },
+  {
+    "run_id": "sweep-cold-k04-s11",
+    "regime": "cold",
+    "faction_size": 4,
+    "population": 24,
+    "seed": 11,
+    "faction_name": "J",
+    "committed": [
+      1,
+      4,
+      12,
+      20
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 11,
+    "calls": 220
+  },
+  {
+    "run_id": "sweep-cold-k04-s23",
+    "regime": "cold",
+    "faction_size": 4,
+    "population": 24,
+    "seed": 23,
+    "faction_name": "J",
+    "committed": [
+      6,
+      7,
+      21,
+      23
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 15,
+    "calls": 300
+  },
+  {
+    "run_id": "sweep-cold-k05-s7",
+    "regime": "cold",
+    "faction_size": 5,
+    "population": 24,
+    "seed": 7,
+    "faction_name": "J",
+    "committed": [
+      0,
+      5,
+      6,
+      13,
+      16
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 23,
+    "calls": 437
+  },
+  {
+    "run_id": "sweep-cold-k05-s11",
+    "regime": "cold",
+    "faction_size": 5,
+    "population": 24,
+    "seed": 11,
+    "faction_name": "J",
+    "committed": [
+      4,
+      8,
+      12,
+      14,
+      20
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 9,
+    "calls": 171
+  },
+  {
+    "run_id": "sweep-cold-k05-s23",
+    "regime": "cold",
+    "faction_size": 5,
+    "population": 24,
+    "seed": 23,
+    "faction_name": "J",
+    "committed": [
+      1,
+      4,
+      8,
+      10,
+      19
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 13,
+    "calls": 247
+  },
+  {
+    "run_id": "sweep-cold-k06-s7",
+    "regime": "cold",
+    "faction_size": 6,
+    "population": 24,
+    "seed": 7,
+    "faction_name": "J",
+    "committed": [
+      0,
+      8,
+      10,
+      14,
+      16,
+      21
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 12,
+    "calls": 216
+  },
+  {
+    "run_id": "sweep-cold-k06-s11",
+    "regime": "cold",
+    "faction_size": 6,
+    "population": 24,
+    "seed": 11,
+    "faction_name": "J",
+    "committed": [
+      1,
+      5,
+      8,
+      19,
+      20,
+      22
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 10,
+    "calls": 180
+  },
+  {
+    "run_id": "sweep-cold-k06-s23",
+    "regime": "cold",
+    "faction_size": 6,
+    "population": 24,
+    "seed": 23,
+    "faction_name": "J",
+    "committed": [
+      0,
+      10,
+      14,
+      16,
+      17,
+      19
+    ],
+    "converged_on": "J",
+    "final_shares": {
+      "J": 1.0
+    },
+    "rounds_played": 14,
+    "calls": 252
+  }
+]

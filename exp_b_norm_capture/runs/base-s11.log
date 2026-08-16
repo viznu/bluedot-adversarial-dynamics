@@ -1,0 +1,19 @@
+round   1 | F:8 J:16 | dominant J at 67% | streak 0/5 | 3.5s
+round   2 | F:10 J:14 | dominant J at 58% | streak 0/5 | 3.1s
+round   3 | F:8 J:16 | dominant J at 67% | streak 0/5 | 3.4s
+round   4 | F:9 J:15 | dominant J at 62% | streak 0/5 | 2.9s
+round   5 | F:5 J:19 | dominant J at 79% | streak 0/5 | 3.3s
+round   6 | F:4 J:20 | dominant J at 83% | streak 0/5 | 3.5s
+round   7 | F:5 J:19 | dominant J at 79% | streak 0/5 | 2.9s
+round   8 | F:3 J:21 | dominant J at 88% | streak 0/5 | 3.0s
+round   9 | F:3 J:21 | dominant J at 88% | streak 0/5 | 3.1s
+round  10 | F:2 J:22 | dominant J at 92% | streak 0/5 | 2.9s
+round  11 | J:24 | dominant J at 100% | streak 1/5 | 3.0s
+round  12 | J:24 | dominant J at 100% | streak 2/5 | 3.0s
+round  13 | J:24 | dominant J at 100% | streak 3/5 | 2.9s
+round  14 | J:24 | dominant J at 100% | streak 4/5 | 3.1s
+round  15 | J:24 | dominant J at 100% | streak 5/5 | 3.0s
+CONVERGED on 'J' at round 15 (≥95% for 5 rounds)
+model calls: 360
+parse-failure rate: 0/360 = 0.0%
+log: runs/base-s11.jsonl
