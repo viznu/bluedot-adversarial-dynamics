@@ -78,3 +78,22 @@ dynamics/exp_b_norm_capture/naming_game.py", line 356, in main
 providers.ProviderUnusable: preflight failed for model 'gpt-4o-mini': openai call failed after 6 attempts: HTTP Error 429: Too Many Requests
 Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
 
+faction name per seed (the one its population did not settle on):
+  seed 7: J
+  seed 11: F
+  seed 23: J
+warm regime: 9 runs (sizes [5, 8, 12] x seeds [7, 11, 23])
+
+!! 9/9 runs FAILED and are excluded:
+   sweep-warm-k05-s7: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k05-s11: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k05-s23: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k08-s7: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k08-s11: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k08-s23: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k12-s7: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k12-s11: Check the model id against OpenRouter's current catalogue and that $OPENROUTER_API_KEY is valid. Nothing was run.
+   sweep-warm-k12-s23: run produced no model calls
+
+=== tipping curve ===
+NO USABLE RUNS. There is no curve here; nothing was measured.
